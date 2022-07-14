@@ -1,0 +1,44 @@
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.imagen {
+    margin: auto;
+    position: relative;
+}
+
+.title{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 330px;
+    margin-bottom: 10px;
+}
+
+.section1{
+    align-content: center;  
+}
+
+.section1 p{
+    width: 50%;
+    text-align: center;
+}
+
+.cooking{
+    margin-left: 250px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+.section3 {
+    width: 50%;   
+}
+
+
+
